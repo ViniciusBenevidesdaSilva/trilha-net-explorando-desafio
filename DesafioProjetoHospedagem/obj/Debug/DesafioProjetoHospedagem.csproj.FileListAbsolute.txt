@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.exe.config
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.exe
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.pdb
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.exe
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.pdb
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.exe.config
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.exe
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\bin\Debug\DesafioProjetoHospedagem.pdb
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.exe
+C:\Users\HP\Documents\Git\03 - trilha-net-explorando-desafio\trilha-net-explorando-desafio\DesafioProjetoHospedagem\obj\Debug\DesafioProjetoHospedagem.pdb
